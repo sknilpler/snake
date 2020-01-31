@@ -10,3 +10,15 @@ E:\snake\Snake\Snake\bin\Debug\Snake.pdb
 E:\snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
 E:\snake\Snake\Snake\obj\Debug\Snake.exe
 E:\snake\Snake\Snake\obj\Debug\Snake.pdb
+I:\snake\snake.git\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+I:\snake\snake.git\Snake\Snake\bin\Debug\Console Snake.exe.config
+I:\snake\snake.git\Snake\Snake\bin\Debug\Console Snake.exe
+I:\snake\snake.git\Snake\Snake\bin\Debug\Console Snake.pdb
+I:\snake\snake.git\Snake\Snake\obj\Debug\Console Snake.exe
+I:\snake\snake.git\Snake\Snake\obj\Debug\Console Snake.pdb
+E:\snake\snake.git\Snake\Snake\bin\Debug\Console Snake.exe.config
+E:\snake\snake.git\Snake\Snake\bin\Debug\Console Snake.exe
+E:\snake\snake.git\Snake\Snake\bin\Debug\Console Snake.pdb
+E:\snake\snake.git\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+E:\snake\snake.git\Snake\Snake\obj\Debug\Console Snake.exe
+E:\snake\snake.git\Snake\Snake\obj\Debug\Console Snake.pdb

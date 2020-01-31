@@ -1,0 +1,6 @@
+I:\snake\snake.git\Snake\Snake\bin\Release\Console Snake.exe.config
+I:\snake\snake.git\Snake\Snake\bin\Release\Console Snake.exe
+I:\snake\snake.git\Snake\Snake\bin\Release\Console Snake.pdb
+I:\snake\snake.git\Snake\Snake\obj\Release\Console Snake.exe
+I:\snake\snake.git\Snake\Snake\obj\Release\Console Snake.pdb
+I:\snake\snake.git\Snake\Snake\obj\Release\Snake.csprojResolveAssemblyReference.cache
